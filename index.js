@@ -1,6 +1,5 @@
-let code1 = 30
-console.log(code1)
-code1 = 7 + 3
+
+let code1 = 7 + 3
 console.log(code1)
 code2 = 180 / 2 - 50
 console.log(code2)
